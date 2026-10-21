@@ -12,7 +12,7 @@ For people coming from Windows, people who use both systems, and anyone who work
 
 ## Download
 
-Get the latest version from **[Releases](https://github.com/dmanske/FinderX/releases/latest)**:
+Get the latest version from **[Releases](https://github.com/dmanske/FinderX-public/releases/latest)**:
 
 | Your computer | File |
 |---|---|
@@ -79,7 +79,7 @@ If a disk stops responding (faulty thumb drive, stuck driver, dropped network), 
 
 ## Problems and suggestions
 
-Open an **[Issue](https://github.com/dmanske/FinderX/issues)** describing what happened, the FinderX version (FinderX menu ▸ Sobre o FinderX) and your macOS version.
+Open an **[Issue](https://github.com/dmanske/FinderX-public/issues)** describing what happened, the FinderX version (FinderX menu ▸ Sobre o FinderX) and your macOS version.
 
 ## License
 

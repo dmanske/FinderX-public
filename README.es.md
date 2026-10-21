@@ -12,7 +12,7 @@ Para quien viene de Windows, usa los dos sistemas o trabaja con muchos archivos 
 
 ## Descargar
 
-Baja la versión más reciente en **[Releases](https://github.com/dmanske/FinderX/releases/latest)**:
+Baja la versión más reciente en **[Releases](https://github.com/dmanske/FinderX-public/releases/latest)**:
 
 | Tu computadora | Archivo |
 |---|---|
@@ -79,7 +79,7 @@ Si un disco deja de responder (pendrive defectuoso, driver trabado, red caída),
 
 ## Problemas y sugerencias
 
-Abre un **[Issue](https://github.com/dmanske/FinderX/issues)** contando qué pasó, la versión de FinderX (menú FinderX ▸ Sobre o FinderX) y la versión de macOS.
+Abre un **[Issue](https://github.com/dmanske/FinderX-public/issues)** contando qué pasó, la versión de FinderX (menú FinderX ▸ Sobre o FinderX) y la versión de macOS.
 
 ## Licencia
 
